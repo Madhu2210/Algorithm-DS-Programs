@@ -1,5 +1,4 @@
 package com.bridglabz;
-
 import java.util.Scanner;
 
 public class StringPermutation {
